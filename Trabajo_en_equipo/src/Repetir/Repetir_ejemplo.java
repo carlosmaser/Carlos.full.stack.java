@@ -4,7 +4,7 @@ public class Repetir_ejemplo {
 
 	public static void main(String[] args) {
 		
-	
+	//prueba 
 			 
 		       int i=0; 
 		    		   while (true) {
